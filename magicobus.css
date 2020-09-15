@@ -33,3 +33,9 @@ div {
                 height:200px;
                 background-color:#CC99CC;
                 }
+                div#blocnews {
+                    float:right;
+                    width:150px;
+                    height:150px;
+                    background-color:#FF3300;
+                    }
