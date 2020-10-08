@@ -1,0 +1,61 @@
+html{
+    background-image: url("Motorhead.jpg");
+    background-size: cover;
+    background-position: left 20px;
+  }
+  
+  body {
+    margin: 0%;
+  }
+  
+  #bandeau {
+    color:white ;
+    font-size: 40px;
+    text-align: center;
+    widows: 2000px;
+    height:7%;
+    background-color:#444F;
+  }
+  
+  #menu {
+    color: white ;
+    border: solid #444F 1px;
+    width: auto;
+    background-color: #444F ;
+    padding: 1%;
+    height: 95.7%;
+  }
+  .bouton a {
+    display:block;
+    width:150px;
+    line-height:50px;
+    text-align:center;
+    background:url(boutonnoir.png) no-repeat;
+    color:white;
+    text-decoration:none;
+    }
+    .bouton a:hover {
+    background:url(boutonnoir2.png) no-repeat;
+    }
+    .bouton a:hover {
+      background:url(boutonnoir2.png) no-repeat;
+      }
+      #Albums {
+        display:block
+        opacity: 0.94;
+        color: white;
+        font-size: 35px;
+        text-align: center;
+        float: right;
+        width: 88.4%;
+        background-color: grey;
+        
+      }
+  
+      #Albums ul{
+        list-style: none;
+      }
+  
+      #Albums, #menu{
+        display: inline-block;
+      }
